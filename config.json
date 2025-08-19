@@ -87,7 +87,7 @@
       "name": "小猫咪资源"
     },
     "huangcang": {
-      "api": "https://hsckzy.vip",
+      "api": "https://hsckzy.vip/api.php/provide/vod",
       "name": "黄色仓库"
     },
     }
