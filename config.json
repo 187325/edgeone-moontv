@@ -1,7 +1,6 @@
 {
   "homepage_password": "admin000",
- {
-    "cache_time": 9200,
+  "cache_time": 9200,
     "api_site": {
         "api_1": {
             "name": "TV-1080资源",
